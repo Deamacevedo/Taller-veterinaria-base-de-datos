@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS veterinaria_mi_mejor_amigo;
+USE veterinaria_mi_mejor_amigo;
